@@ -1,4 +1,4 @@
-word = input("woord omdraaien: ")
+word = input("reverse the word: ")
 
 reverse = word[::-1]
 
