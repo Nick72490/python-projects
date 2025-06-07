@@ -1,4 +1,4 @@
-print("I can check if a number is even or odd")
+print("even or odd:")
 number = input("enter a number:")
 
 number = int(number)
