@@ -21,7 +21,7 @@ def game():
         break
 
      options = ["rock", "scissors", "paper", "quit"]
-     user_choice_word = options[int(user_choice) - 1]  # Convert "1" to index 0, etc.
+     user_choice_word = options[int(user_choice) - 1] 
      
      options = ["rock", "paper", "scissors"]
      computer_choice = random.choice(options)
